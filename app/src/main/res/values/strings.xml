@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="welcome_to_alc4">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="counrty">Counrty : South Africa</string>
+    <string name="email">Email : vx1@webmail.co.za</string>
+    <string name="phone_number">Phone Number : (+27)72 60 20 955</string>
+    <string name="slack_username">Slack Username : @Mogammad</string>
+    <string name="track">Track : Android</string>
+    <string name="name">Mogammad Johaar</string>
+</resources>
